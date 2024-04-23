@@ -1,2 +1,6 @@
 mountpoints:
-  /: https://drive.google.com/drive/u/0/folders/1MGzOt7ubUh3gu7zhZIPb7R7dyRzG371j
+  /: 
+  url: "https://author-p78502-e680953.adobeaemcloud.com/bin/franklin-delivery/nimithshetty17/aem-eds-poc/main"
+  type: "markup"
+  suffix: ".html"
+  
