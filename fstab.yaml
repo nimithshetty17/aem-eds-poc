@@ -1,6 +1,6 @@
 mountpoints:
   /: 
-  url: "https://author-p78502-e680953.adobeaemcloud.com/bin/franklin-delivery/nimithshetty17/aem-eds-poc/main"
+  url: "https://author-p78502-e680953.adobeaemcloud.com/bin/franklin.delivery/nimithshetty17/aem-eds-poc/main"
   type: "markup"
   suffix: ".html"
   
